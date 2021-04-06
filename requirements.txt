@@ -3,3 +3,7 @@ this ia a bussinness
  ont
  olt
  server
+
+network 
+speed
+firm
